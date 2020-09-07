@@ -15,7 +15,7 @@ de informacion del deposito de cuenta corriente
 ### Instalar Gradle
 ### Instalar el Plugin Cucumber 
 
-##Pasos Para la Clonar el proyecto: RETO BANISTMO
+### Pasos Para la Clonar el proyecto: RETO BANISTMO
 
 # Precondicion: Tener GitBashHere Local
 # 1. Abrir consola de GitBash y proceder a ejecutar el comando: 
