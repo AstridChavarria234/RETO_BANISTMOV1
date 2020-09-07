@@ -10,10 +10,10 @@ de informacion del deposito de cuenta corriente
 
 ### Prerequisitos: 
 
-# Instalar un Entorno de Desarrollo: Preferiblemente Intellij
-# Instalar Java en tu local
-# Instalar Gradle
-# Instalar el Plugin Cucumber 
+### Instalar un Entorno de Desarrollo: Preferiblemente Intellij
+### Instalar Java en tu local
+### Instalar Gradle
+### Instalar el Plugin Cucumber 
 
 ##Pasos Para la Clonar el proyecto: RETO BANISTMO
 
