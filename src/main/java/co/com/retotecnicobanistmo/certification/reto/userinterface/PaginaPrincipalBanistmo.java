@@ -11,7 +11,5 @@ public final class PaginaPrincipalBanistmo {
           .located(xpath("//li/a[contains(text(),'Productos & Servicios')]"));
 
   public static final Target ITEM_MENU =
-      Target.the("Tarjeta Credito")
-          .located(xpath("//div/a[contains(text(),'{0}')]"));
-
+      Target.the("Item").locatedBy("//div/a[contains(text(),'{0}')]");
 }

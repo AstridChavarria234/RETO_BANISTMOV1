@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Expedir SOAT de vehiculo","Expedir el SOAT de un vehiculo exitosamente por el canal tradicional","ERROR","2020-09-06T19:50:48.5237272-05:00[America/Bogota]","0.0","8.24"
+"Descargar Contrato de Tarjeta de Credito","Descargar Contrato de Tarjeta de Credito","FAILURE","2020-09-07T11:23:31.3215576-05:00[America/Bogota]","0.0","81.88"
+"Visualizar el depósito de cuenta corriente","Visualizar el deposito de cuenta corriente","ERROR","2020-09-07T11:28:42.7060843-05:00[America/Bogota]","0.0","157.68"

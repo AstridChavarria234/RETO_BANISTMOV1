@@ -1,22 +1,19 @@
 package co.com.retotecnicobanistmo.certification.reto.questions;
 
+import static co.com.retotecnicobanistmo.certification.reto.utils.EnumMensajesBanistmo.ARCHIVO_CONTRATO;
+
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 
-import static co.com.retotecnicobanistmo.certification.reto.utils.EnumMensajesBanistmo.ARCHIVO_CONTRATO;
-
 public class PestañaActivaContrato implements Question<Boolean> {
 
-    @Override
-    public Boolean answeredBy(Actor actor) {
+  @Override
+  public Boolean answeredBy(Actor actor) {
+    return BrowseTheWeb.as(actor).getDriver().getTitle().contains(ARCHIVO_CONTRATO.getNombre());
+  }
 
-        return BrowseTheWeb.as(actor).getDriver().getTitle()
-                .contains(ARCHIVO_CONTRATO.getNombre());
-
-    }
-
-    public static PestañaActivaContrato banistmo() {
-        return new PestañaActivaContrato();
-    }
+  public static PestañaActivaContrato banistmo() {
+    return new PestañaActivaContrato();
+  }
 }

@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/v4-shims.min.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" type="text/css" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.css">
+<link rel="stylesheet" type="text/css" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.20/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.20/datatables.min.js"></script>
+<script type="text/javascript" src="datatables/1.10.20/time-elapsed-dhms.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.20/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.20/datatables.bootstrap4.min.css" rel="stylesheet" />
+
+<script>
+    jQuery.fn.dataTable.ext.type.order['time-elapsed-dhms-pre'] = function(data) {
+
+        var matches = data.match(/^(\d+(?:\.\d+)?)\s*([a-z]+)/i);
+        var multipliers = {
+            ms: 1,
+            s: 1000,
+            m: 60000,
+            h: 3600000,
+            d: 86400000
+        };
+
+        if (matches) {
+            var multiplier = multipliers[matches[2].toLowerCase()];
+            return parseFloat(matches[1]) * multiplier;
+        } else {
+            return -1;
+        };
+    };
+</script>
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">
+                <span class="projecttitle">RetoTecnicoBanistmo</span>
+                <span class="projectsubtitle"></span>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="00532f3b9c556b17381e2e9f4b6439dc5b13d916dcb73186d839b58eab944be0.html">Descargar Contrato De Tarjeta De Credito</a></span>
+                > <span class="truncate-60"><a
+                    href="05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a.html">Descargar Contrato de Tarjeta de Credito </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 07-09-2020 11:23</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Descargar Contrato De Tarjeta De Credito </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                Yo como usuario<br />
+Quiero descargar el contrato de tarjeta de credito<br />
+Para visualizar las condiciones generales del contrato
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;"
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;" href="d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.html">Expedicion Soat Tradicional
+                                    (tag)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></a></span>
+                            <span class="test-case-title">
+                                <span class="failing-color">Descargar Contrato de Tarjeta de Credito
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">Assertion error: Expected pesta&ntilde;a activa contratoExpected: is (true) but: was (false)</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-overall">
+            <div class="card">
+                <div class="card-header">
+                    <h4>java.lang.AssertionError </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>co.com.retotecnicobanistmo.certification.reto.stepdefinitions.ContratoTarjetaStepDefinition.deberiaVisualizarElMensaje(ContratoTarjetaStepDefinition.java:27)<br />✽.deberia visualizar el archivo de contrato(file:///C:/Users/astrid.chavarria/Desktop/APUNTES/RETO_BANISTMO/src/test/resources/features/ContratoTarjetaCredito.feature:12)<br /></pre>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource7006933765780521538.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="e7787c94746dc682bb7dcdea45a49a800184efb79ab17fad8a917ded63258630.png" title=" Ren&eacute; opens the https://www.banistmo.com/wps/portal/banistmo/personas/" width="1366"/>
+                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Dado que un usuario quiere descargar el contrato de &quot;Tarjetas de Cr&eacute;dito&quot;" width="1366"/>
+                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Ren&eacute; ingresar a" width="1366"/>
+                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Ren&eacute; clicks on Productos Servicios" width="1366"/>
+                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Ren&eacute; clicks on Item" width="1366"/>
+                <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; clicks on Item (completed)" width="1366"/>
+                <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; ingresar a (completed)" width="1366"/>
+                <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Dado que un usuario quiere descargar el contrato de &quot;Tarjetas de Cr&eacute;dito&quot; (completed)" width="1366"/>
+                <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Cuando descargue el contrato" width="1366"/>
+                <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; descargar" width="1366"/>
+                <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; clicks on Descargar Contrato" width="1366"/>
+                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Ren&eacute; cambiar foco" width="1366"/>
+                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Ren&eacute; descargar (completed)" width="1366"/>
+                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Cuando descargue el contrato (completed)" width="1366"/>
+                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Entonces deberia visualizar el archivo de contrato" width="1366"/>
+                <img src="c171560f74245c59f60fce88dd9b254f5e368bebe6e7e230230cf2e80f944afe.png" title=" Then pesta&amp;ntilde;a activa contrato" width="1366"/>
+                <img src="c171560f74245c59f60fce88dd9b254f5e368bebe6e7e230230cf2e80f944afe.png" title=" Then pesta&amp;ntilde;a activa contrato (completed): <span class='failing-color'>FAILURE</span>" width="1366"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.2.0</span>
+</div>
+</body>
+</html>

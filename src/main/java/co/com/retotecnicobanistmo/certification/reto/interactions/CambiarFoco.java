@@ -1,25 +1,23 @@
 package co.com.retotecnicobanistmo.certification.reto.interactions;
 
-import co.com.retotecnicobanistmo.certification.reto.tasks.IngresarA;
+import static net.serenitybdd.screenplay.Tasks.instrumented;
+
+import java.util.ArrayList;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Interaction;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 
-import static net.serenitybdd.screenplay.Tasks.instrumented;
-
 public class CambiarFoco implements Interaction {
-    @Override
-    public <T extends Actor> void performAs(T actor) {
+  @Override
+  public <T extends Actor> void performAs(T actor) {
 
-        for (String winHandle : BrowseTheWeb.as(actor).getDriver().getWindowHandles()) {
-            BrowseTheWeb.as(actor).getDriver().switchTo().window(winHandle);
-            break;
-        }
-    }
+    ArrayList<String> tabs =
+        new ArrayList<String>(BrowseTheWeb.as(actor).getDriver().getWindowHandles());
+    BrowseTheWeb.as(actor).getDriver().switchTo().window(tabs.get(1));
 
+  }
 
-    public static CambiarFoco Pestana() {
-        return instrumented(CambiarFoco.class);
-    }
-
+  public static CambiarFoco Pestana() {
+    return instrumented(CambiarFoco.class);
+  }
 }

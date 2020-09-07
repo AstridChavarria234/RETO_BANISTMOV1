@@ -2,94 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abfe722c-e7df-4d5b-8b95-d3290db941ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/CambiarFoco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/InformacionCuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/PestañaActivaContrato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/Descargar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarOpcionDeposito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/InformacionCuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionDepositos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionTarjetaCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/EnumMensajesBanistmo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/DepositoCuentaCorriente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/ContratoTarjetaStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/TiposDepositos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ContratoTarjetaCredito.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/TiposDepositos.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03518ab81f5538f82136066aaaa668ef05ac9210" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/2010b87e80a7c666a261d4ee541467ea0c6b71d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26d538aa1b82efee450328fd34cf5c52000751cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/446c222d812b0bbdba3c52a7bf219ab59e0a17ee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49088cbb8ba6910fdf29aa862146cfb2f33a6dd8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/576967384a040915b4d9ec9c5fb80248958f026c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ce6e5053a1efddf5e0366efc69512f282ca7c74" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/618ed420886b8578ff66b51c588b7a76296dde6e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/6409d18fab696b970353898c016316a18eb84d4d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6dfdec611b420ba99adb56821944085f132391b7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72a09bb5a4b7fd834557e5a25d5a72ee11fffee0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74d07dbe85665afd5cb3248e1acbfd567d5d17c3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83379b0db1405d5e19f78d0104e587cd37ab5356" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8eaccb3473063f02a13051bc1c98efcf00bb75da" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e22b7c777492ff0a296b16e82995a53d13658b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2c42be7a8fa73ad53a19002fb5c5192d40aa318" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7ccbcc1bc8727e8d4effa0326afcba157d50f05" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af430887475397ef3f67dcb9c5803a1d1341400a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcf8ce64535da6a9b356d2e9e76b79be899c2c4f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1cbea478394087487a759b372b23377952c9889" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e46705c8123af01fe51dff23d2d1a01b4e331b6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6e90011f74c4d8f3af4e1a0bb912f509e93c7c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicioGetSimple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicioPostSimple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/models/Clase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/models/PlanSeleccionado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/ConsumirGet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/Targets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaPrincipalBanistmo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/Aleatorios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/Booleanos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/Cadenas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/Esperas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/Fechas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/Logger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/Numeros.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/RutaBundle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/UtilidadesCsv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCausalRiesgoCliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumClasesVehiculo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCoberturasAutos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumConstantesCsv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCredenciales.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCredencialesBaseDatosPolicy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumFiltrosEstructuras.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumFormatosFechas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumGrupoCoberturasAutos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumGrupoOpcionesCoberturasAutos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumMarcasVehiculo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumMensajesError.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumNombresCsv.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumOperaciones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumPlanes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumRecursosServicios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumRutaBundle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumSentenciasSQL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumSeparadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumTipoBaseDeDatos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumTipoDirecciones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumVariablesSesion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumVigencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/Prueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/ContratoTarjeta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/services/PruebaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/PruebaStepDefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicioGetSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicioPostSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/Clase$ClaseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/Clase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/PlanSeleccionado$PlanSeleccionadoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/PlanSeleccionado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/Clase$ClaseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/Clase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/PlanSeleccionado$PlanSeleccionadoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/PlanSeleccionado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/tasks/ConsumirGet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/Targets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Aleatorios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Booleanos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Cadenas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Esperas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Esperas$IntegerBooleanFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Esperas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Fechas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Numeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/RutaBundle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/UtilidadesCsv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCausalRiesgoCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumClasesVehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCoberturasAutos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumConstantesCsv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCredenciales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCredencialesBaseDatosPolicy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumFiltrosEstructuras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumFormatosFechas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumGrupoCoberturasAutos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumGrupoOpcionesCoberturasAutos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumMarcasVehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumMensajesError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumNombresCsv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumOperaciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumPlanes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumRecursosServicios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumRutaBundle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumSentenciasSQL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumSeparadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumTipoBaseDeDatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumTipoDirecciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumVariablesSesion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumVigencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/runners/Prueba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/runners/services/PruebaService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/PruebaStepDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/services/PruebaServicesStepDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Expedir#20SOAT#20de#20vehiculo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.retotecnicobanistmo.certification.reto.runners.Prueba.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.retotecnicobanistmo.certification.reto.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.retotecnicobanistmo.certification.reto.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/data/datos_personas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/Prueba.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/services/PruebaService.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/serenity.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Expedir#20SOAT#20de#20vehiculo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.retotecnicobanistmo.certification.reto.runners.Prueba.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/CambiarFoco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/CambiarFoco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/InformacionCuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/InformacionCuentaCorriente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/PestañaActivaContrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/PestañaActivaContrato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/Descargar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/Descargar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarOpcionDeposito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarOpcionDeposito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/InformacionCuentaCorriente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionDepositos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionDepositos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionTarjetaCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionTarjetaCredito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaPrincipalBanistmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaPrincipalBanistmo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/EnumMensajesBanistmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/EnumMensajesBanistmo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/DepositoCuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/DepositoCuentaCorriente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/ContratoTarjetaStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/ContratoTarjetaStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/TiposDepositos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/TiposDepositos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/services/PruebaServicesStepDefinition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/data/datos_personas.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Prueba.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/services/PruebaService.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/04fd584ec0d8d90d4d39dedbe592ef86463292eabb33525fd97fcfc387e35470.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/04fd584ec0d8d90d4d39dedbe592ef86463292eabb33525fd97fcfc387e35470.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/192d7243664989b32c95a47c9c380a5ac238718140f97c7d907f560c5250e4dd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/192d7243664989b32c95a47c9c380a5ac238718140f97c7d907f560c5250e4dd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/20be5498137bfbaf7cb8e55728d6b236b24b59f540b62a99d60b3787ed40eff1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/20be5498137bfbaf7cb8e55728d6b236b24b59f540b62a99d60b3787ed40eff1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/21861ccdccf0a9f5db9498effcc719caab0b5729d6e070f1c1c6a83febaf3786.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/21861ccdccf0a9f5db9498effcc719caab0b5729d6e070f1c1c6a83febaf3786.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/55765716fb4986289562ee4570f97d882fed46636e32f90d0c6b06fbd8d47753.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/55765716fb4986289562ee4570f97d882fed46636e32f90d0c6b06fbd8d47753.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/77114c0333c7429771e076966b2e4028dee1494cfc7e5e18c72e36e855181afd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/77114c0333c7429771e076966b2e4028dee1494cfc7e5e18c72e36e855181afd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/80aca4a90ebcb7828f2ffc9830dac0884bbf1b556a959ff4005852c7a086adfb.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/80aca4a90ebcb7828f2ffc9830dac0884bbf1b556a959ff4005852c7a086adfb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8fb4c7473d04102a0548c39e2498a714c2bc862001051689f9da251589246a5e.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8fb4c7473d04102a0548c39e2498a714c2bc862001051689f9da251589246a5e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/91adf2b3597d6d574a20021ff105897ab8c9a8fa8e4fd63c18368ba2459d93d1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/91adf2b3597d6d574a20021ff105897ab8c9a8fa8e4fd63c18368ba2459d93d1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bacbafd41f0d87f47b89a172913211858583e49884a1100a9ea64b11fbeed435.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bacbafd41f0d87f47b89a172913211858583e49884a1100a9ea64b11fbeed435.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c5f436980712344221833f9d1fa418833e8c978c44968d54806d07a3dc595731.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c5f436980712344221833f9d1fa418833e8c978c44968d54806d07a3dc595731.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e1b6d4fb8d54bec08cbdaa3cbcfde5779755887cce7b5f364cadaff26e8fd29e.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e1b6d4fb8d54bec08cbdaa3cbcfde5779755887cce7b5f364cadaff26e8fd29e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f39461717e2a78d2d69bc4a4ca139d69572e2b4176d522c69126cdd6e0a16316.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f39461717e2a78d2d69bc4a4ca139d69572e2b4176d522c69126cdd6e0a16316.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/f4f5d6549c23ca069f22fe4da9e766f8ff67f5ec75011460607534e56004de17.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f4f5d6549c23ca069f22fe4da9e766f8ff67f5ec75011460607534e56004de17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/serenity-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/serenity-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +196,47 @@
       <recent name="C:\Users\astrid.chavarria\Desktop\APUNTES\RETO_BANISTMO\src\main\java\co\com\retotecnicobanistmo\certificacion\reto\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Prueba">
+  <component name="RunManager" selected="Gradle.DepositoCuentaCorriente">
+    <configuration name="ContratoTarjeta" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.retotecnicobanistmo.certification.reto.runners.ContratoTarjeta&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DepositoCuentaCorriente" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.retotecnicobanistmo.certification.reto.runners.DepositoCuentaCorriente&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="Prueba" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -202,6 +279,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DepositoCuentaCorriente" />
+        <item itemvalue="Gradle.ContratoTarjeta" />
         <item itemvalue="Gradle.Prueba" />
         <item itemvalue="Gradle.PruebaService" />
         <item itemvalue="Gradle.PruebaService" />
@@ -230,22 +309,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599488278794" />
-    <state width="1323" height="72" key="GridCell.Tab.0.bottom" timestamp="1599444205760">
+    <state width="1323" height="258" key="GridCell.Tab.0.bottom" timestamp="1599496784956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599444205760" />
-    <state width="1323" height="72" key="GridCell.Tab.0.center" timestamp="1599444205760">
+    <state width="1323" height="258" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
+    <state width="1323" height="258" key="GridCell.Tab.0.center" timestamp="1599496784956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599444205760" />
-    <state width="1323" height="72" key="GridCell.Tab.0.left" timestamp="1599444205760">
+    <state width="1323" height="258" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
+    <state width="1323" height="258" key="GridCell.Tab.0.left" timestamp="1599496784956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599444205760" />
-    <state width="1323" height="72" key="GridCell.Tab.0.right" timestamp="1599444205760">
+    <state width="1323" height="258" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
+    <state width="1323" height="258" key="GridCell.Tab.0.right" timestamp="1599496784956">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599444205760" />
+    <state width="1323" height="258" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
     <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1599488710905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -258,5 +337,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599442678682" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/build.gradle</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

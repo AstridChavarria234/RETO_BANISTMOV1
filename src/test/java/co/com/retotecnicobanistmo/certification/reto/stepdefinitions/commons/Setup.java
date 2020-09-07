@@ -1,5 +1,8 @@
 package co.com.retotecnicobanistmo.certification.reto.stepdefinitions.commons;
 
+import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
+import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
+
 import io.cucumber.java.Before;
 import net.serenitybdd.core.environment.EnvironmentSpecificConfiguration;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
@@ -10,9 +13,6 @@ import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.guice.Injectors;
 import net.thucydides.core.util.EnvironmentVariables;
 import org.openqa.selenium.WebDriver;
-
-import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
-import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 
 public class Setup {
 

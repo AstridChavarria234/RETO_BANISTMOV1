@@ -6,10 +6,8 @@ import lombok.Getter;
 @AllArgsConstructor
 @Getter
 public enum EnumMensajesBanistmo {
-    ARCHIVO_CONTRATO("Banistmo+Contrato+TDC"),
-    ADMINISTRA("Administra tus finanzas");
+  ARCHIVO_CONTRATO("Banistmo+Contrato+TDC"),
+  ADMINISTRA("Administra tus finanzas");
 
-    private final String nombre;
-
-
+  private final String nombre;
 }

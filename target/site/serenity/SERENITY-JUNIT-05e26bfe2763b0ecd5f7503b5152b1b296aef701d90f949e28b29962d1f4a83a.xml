@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Descargar Contrato de Tarjeta de Credito" skipped="0" tests="1" time="81.88" timestamp="2020-09-07 11:23:31"><testcase name="Descargar Contrato de Tarjeta de Credito"><failure message="Expected pestaña activa contrato&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected pestaña activa contrato
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected pestaña activa contrato
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.retotecnicobanistmo.certification.reto.stepdefinitions.ContratoTarjetaStepDefinition.deberiaVisualizarElMensaje(ContratoTarjetaStepDefinition.java:27)&#13;
+✽.deberia visualizar el archivo de contrato(file:///C:/Users/astrid.chavarria/Desktop/APUNTES/RETO_BANISTMO/src/test/resources/features/ContratoTarjetaCredito.feature:12)&#13;
+</system-err></testcase></testsuite>
