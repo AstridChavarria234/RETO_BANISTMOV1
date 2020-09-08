@@ -154,7 +154,7 @@
             <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 07-09-2020 11:23</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 08-09-2020 14:22</span>
     <br style="clear:left"/>
 </div>
 
@@ -197,9 +197,9 @@ Para visualizar las condiciones generales del contrato
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-times-circle failure-icon fa-2x' title='FAILURE'></i></a></span>
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></a></span>
                             <span class="test-case-title">
-                                <span class="failing-color">Descargar Contrato de Tarjeta de Credito
+                                <span class="error-color">Descargar Contrato de Tarjeta de Credito
                                     <span class="related-issue-title"></span>
                                 </span>
                             </span>
@@ -222,7 +222,7 @@ Para visualizar las condiciones generales del contrato
         <div class="table">
             <div class="row">
                 <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
-                    <span class="error-message error-message-title">Assertion error: Expected pesta&ntilde;a activa contratoExpected: is (true) but: was (false)</span>
+                    <span class="error-message error-message-title">No such element exception: no such element: Unable to locate element: {'method':'xpath','selector':'//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]'}  (Session info: chrome=85.0.4183.83)  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: https://www.seleniumhq.org/exceptionso_such_element.htmlBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'System info: host: 'SBMEDLAPPROAC26', ip: '192.168.1.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ASTRID~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 85.0.4183.83, webStorageEnabled: true}Session ID: ef908b76acf934255ca91f7b27d9ded9*** Element info: {Using=xpath, value=//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]}</span>
                 </div>
                 <div class="col-sm-2">
                     <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
@@ -238,11 +238,11 @@ Para visualizar las condiciones generales del contrato
         <div class="collapse multi-collapse" id="stacktraceModal-overall">
             <div class="card">
                 <div class="card-header">
-                    <h4>java.lang.AssertionError </h4>
+                    <h4>org.openqa.selenium.NoSuchElementException </h4>
                 </div>
                 <div class="card-body">
                     <div>
-                        <pre>co.com.retotecnicobanistmo.certification.reto.stepdefinitions.ContratoTarjetaStepDefinition.deberiaVisualizarElMensaje(ContratoTarjetaStepDefinition.java:27)<br />✽.deberia visualizar el archivo de contrato(file:///C:/Users/astrid.chavarria/Desktop/APUNTES/RETO_BANISTMO/src/test/resources/features/ContratoTarjetaCredito.feature:12)<br /></pre>
+                        <pre>co.com.retotecnicobanistmo.certification.reto.interactions.CambiarFoco.performAs(CambiarFoco.java:22)<br />co.com.retotecnicobanistmo.certification.reto.tasks.Descargar.performAs(Descargar.java:19)<br />co.com.retotecnicobanistmo.certification.reto.stepdefinitions.ContratoTarjetaStepDefinition.descargarContratoTarjetaCredito(ContratoTarjetaStepDefinition.java:22)<br />io.cucumber.java.Invoker.invoke(Invoker.java:27)<br />io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:27)<br />io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)<br />io.cucumber.core.runner.TestStep.executeStep(TestStep.java:64)<br />io.cucumber.core.runner.TestStep.run(TestStep.java:49)<br />io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:46)<br />io.cucumber.core.runner.TestCase.run(TestCase.java:51)<br />io.cucumber.core.runner.Runner.runPickle(Runner.java:66)<br />io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:83)<br />io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:24)<br />io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:227)<br />io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:54)<br /></pre>
                     </div>
 
                 </div>
@@ -252,28 +252,24 @@ Para visualizar las condiciones generales del contrato
 
 
                 <div class="panel-body">
-                    <a href="pagesource7006933765780521538.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                    <a href="pagesource12929196365785460405.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
                 </div>
             </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
                 <img src="e7787c94746dc682bb7dcdea45a49a800184efb79ab17fad8a917ded63258630.png" title=" Ren&eacute; opens the https://www.banistmo.com/wps/portal/banistmo/personas/" width="1366"/>
-                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Dado que un usuario quiere descargar el contrato de &quot;Tarjetas de Cr&eacute;dito&quot;" width="1366"/>
-                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Ren&eacute; ingresar a" width="1366"/>
-                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Ren&eacute; clicks on Productos Servicios" width="1366"/>
-                <img src="35d1c978d496a7c3e8874e9a29c00f7d80163c76ed112fda712e613796d1e487.png" title=" Ren&eacute; clicks on Item" width="1366"/>
+                <img src="0cb412f828335bd5c62cf66c034a241d39ebae63d3bd4fcf7f813d52962bcfb6.png" title=" Dado que un usuario quiere descargar el contrato de &quot;Tarjetas de Cr&eacute;dito&quot;" width="1366"/>
+                <img src="0cb412f828335bd5c62cf66c034a241d39ebae63d3bd4fcf7f813d52962bcfb6.png" title=" Ren&eacute; ingresar a" width="1366"/>
+                <img src="0cb412f828335bd5c62cf66c034a241d39ebae63d3bd4fcf7f813d52962bcfb6.png" title=" Ren&eacute; clicks on Productos Servicios" width="1366"/>
+                <img src="0cb412f828335bd5c62cf66c034a241d39ebae63d3bd4fcf7f813d52962bcfb6.png" title=" Ren&eacute; clicks on Item" width="1366"/>
                 <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; clicks on Item (completed)" width="1366"/>
                 <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; ingresar a (completed)" width="1366"/>
                 <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Dado que un usuario quiere descargar el contrato de &quot;Tarjetas de Cr&eacute;dito&quot; (completed)" width="1366"/>
                 <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Cuando descargue el contrato" width="1366"/>
                 <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; descargar" width="1366"/>
-                <img src="0d9121ee87064c2a14c7858ce7e36e7f395cccc901eaf318392aae52a7b1ca43.png" title=" Ren&eacute; clicks on Descargar Contrato" width="1366"/>
-                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Ren&eacute; cambiar foco" width="1366"/>
-                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Ren&eacute; descargar (completed)" width="1366"/>
-                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Cuando descargue el contrato (completed)" width="1366"/>
-                <img src="67cbf6e9f98ed33103f7e714606887d33d9c66729e2e5bf78ef101e4d3e8a5ad.png" title=" Entonces deberia visualizar el archivo de contrato" width="1366"/>
-                <img src="c171560f74245c59f60fce88dd9b254f5e368bebe6e7e230230cf2e80f944afe.png" title=" Then pesta&amp;ntilde;a activa contrato" width="1366"/>
-                <img src="c171560f74245c59f60fce88dd9b254f5e368bebe6e7e230230cf2e80f944afe.png" title=" Then pesta&amp;ntilde;a activa contrato (completed): <span class='failing-color'>FAILURE</span>" width="1366"/>
+                <img src="a2e67ceed97587a201939279d172b917fbb2fe828121ef72af5df9a0db092ea4.png" title=" Ren&eacute; clicks on Descargar Contrato" width="1366"/>
+                <img src="a2e67ceed97587a201939279d172b917fbb2fe828121ef72af5df9a0db092ea4.png" title=" Ren&eacute; cambiar foco" width="1366"/>
+                <img src="d99e0c707db03bb8c548ca09c7971ad74a6343d63017f8315606be092f731abe.png" title=" Ren&eacute; cambiar foco (completed): <span class='error-color'>ERROR</span>" width="1366"/>
             </div>
         </div>
 

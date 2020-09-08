@@ -12,115 +12,110 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21dbd2b21cb23cbe9f17a62e6d3c255c00bf778b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/259bbb14d8de5525866cb2431889eb33df0e9ced" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b9d1708ea6a396ae933ae3506017cadd0f27253" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bbba3a3e1d0de5bf550355c5081e1cc3d918a17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0fb44b8dd9dcdbc56d4599513c45c4ff90671f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicioGetSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/ConsumirServicioPostSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/Clase$ClaseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/Clase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/PlanSeleccionado$PlanSeleccionadoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/models/PlanSeleccionado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/Clase$ClaseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/Clase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/PlanSeleccionado$PlanSeleccionadoBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/PlanSeleccionado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/tasks/ConsumirGet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/Targets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Aleatorios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Booleanos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Cadenas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Esperas$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Esperas$IntegerBooleanFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Esperas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Fechas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/Numeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/RutaBundle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/UtilidadesCsv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCausalRiesgoCliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumClasesVehiculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCoberturasAutos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumConstantesCsv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCredenciales.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumCredencialesBaseDatosPolicy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumFiltrosEstructuras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumFormatosFechas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumGrupoCoberturasAutos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumGrupoOpcionesCoberturasAutos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumMarcasVehiculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumMensajesError.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumNombresCsv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumOperaciones.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumPlanes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumRecursosServicios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumRutaBundle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumSentenciasSQL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumSeparadores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumTipoBaseDeDatos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumTipoDirecciones.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumVariablesSesion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/utils/enums/EnumVigencia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/runners/Prueba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/runners/services/PruebaService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/PruebaStepDefinition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/services/PruebaServicesStepDefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/CambiarFoco.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/interactions/CambiarFoco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/PestañaActivaContrato.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/questions/PestañaActivaContrato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarOpcionDeposito.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarOpcionDeposito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionDepositos.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionDepositos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionTarjetaCredito.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionTarjetaCredito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaPrincipalBanistmo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaPrincipalBanistmo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/fileStates.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/google-java-format/0.8/settings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Expedir#20SOAT#20de#20vehiculo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.retotecnicobanistmo.certification.reto.runners.Prueba.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Visualizar#20el#20dep#f3sito#20de#20cuenta#20corriente.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.retotecnicobanistmo.certification.reto.runners.DepositoCuentaCorriente.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.retotecnicobanistmo.certification.reto.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.retotecnicobanistmo.certification.reto.runners.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/data/datos_personas.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/features/Prueba.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/features/services/PruebaService.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/serenity.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Expedir#20SOAT#20de#20vehiculo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.retotecnicobanistmo.certification.reto.runners.Prueba.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Visualizar#20el#20dep#f3sito#20de#20cuenta#20corriente.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.retotecnicobanistmo.certification.reto.runners.DepositoCuentaCorriente.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/CambiarFoco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/interactions/CambiarFoco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/InformacionCuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/InformacionCuentaCorriente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/PestañaActivaContrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/questions/PestañaActivaContrato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/Descargar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/Descargar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarOpcionDeposito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/tasks/IngresarOpcionDeposito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/InformacionCuentaCorriente.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionDepositos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionDepositos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionTarjetaCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaInformacionTarjetaCredito.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaPrincipalBanistmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/userinterface/PaginaPrincipalBanistmo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/EnumMensajesBanistmo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/retotecnicobanistmo/certification/reto/utils/EnumMensajesBanistmo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/DepositoCuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/runners/DepositoCuentaCorriente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/ContratoTarjetaStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/ContratoTarjetaStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/TiposDepositos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/TiposDepositos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/retotecnicobanistmo/certification/reto/stepdefinitions/commons/Setup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/00532f3b9c556b17381e2e9f4b6439dc5b13d916dcb73186d839b58eab944be0.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/00532f3b9c556b17381e2e9f4b6439dc5b13d916dcb73186d839b58eab944be0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0263c96761f8db29e3c0a2fe53e352c25be3514d8c26221c11188ff87a602fdf.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0263c96761f8db29e3c0a2fe53e352c25be3514d8c26221c11188ff87a602fdf.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/04fd584ec0d8d90d4d39dedbe592ef86463292eabb33525fd97fcfc387e35470.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/04fd584ec0d8d90d4d39dedbe592ef86463292eabb33525fd97fcfc387e35470.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/066a12dca2759f5aa47d643f3949c3d54c61035434ed899c13ff1a6fa3818caf.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/066a12dca2759f5aa47d643f3949c3d54c61035434ed899c13ff1a6fa3818caf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0fab5ec07658f1d3cad04d83600146be25a2d087550e785007761c85ddc87600.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0fab5ec07658f1d3cad04d83600146be25a2d087550e785007761c85ddc87600.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0fab5ec07658f1d3cad04d83600146be25a2d087550e785007761c85ddc87600.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0fab5ec07658f1d3cad04d83600146be25a2d087550e785007761c85ddc87600.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/192d7243664989b32c95a47c9c380a5ac238718140f97c7d907f560c5250e4dd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/192d7243664989b32c95a47c9c380a5ac238718140f97c7d907f560c5250e4dd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/20be5498137bfbaf7cb8e55728d6b236b24b59f540b62a99d60b3787ed40eff1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/20be5498137bfbaf7cb8e55728d6b236b24b59f540b62a99d60b3787ed40eff1.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/21861ccdccf0a9f5db9498effcc719caab0b5729d6e070f1c1c6a83febaf3786.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/21861ccdccf0a9f5db9498effcc719caab0b5729d6e070f1c1c6a83febaf3786.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/28f7f04edfbcdfa070b05e0a7d58534bb453e1c57cdb76c8bd7747fcd08b9556.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/28f7f04edfbcdfa070b05e0a7d58534bb453e1c57cdb76c8bd7747fcd08b9556.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/29571fcd1e541f91f82450a5de5af47de05da9c3f3bb7687b15c72ebe9c4e6a6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/2ca200e484fc4055e7705051ec75e7cf2ec52af998ac94807babed5d72e2b159.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/2ca200e484fc4055e7705051ec75e7cf2ec52af998ac94807babed5d72e2b159.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/36636581fe6006791a147450d938118e783c4099303cc7a9a400d87d76d6c4d3.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/36636581fe6006791a147450d938118e783c4099303cc7a9a400d87d76d6c4d3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/49f0febb040bfbcc3401cb98ae2517f240e39cc490eea667bc2c1a6ca33ef26c.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/49f0febb040bfbcc3401cb98ae2517f240e39cc490eea667bc2c1a6ca33ef26c.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/55765716fb4986289562ee4570f97d882fed46636e32f90d0c6b06fbd8d47753.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/55765716fb4986289562ee4570f97d882fed46636e32f90d0c6b06fbd8d47753.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/63cfabb31927c717dbb0fd7d716649e35e2ffd15a40942a653227a4be7d6be7e.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/63cfabb31927c717dbb0fd7d716649e35e2ffd15a40942a653227a4be7d6be7e.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6ed19ddd4a02a64f6a32ea1ab6220edea49f23645ec486bef01a30146d0705a2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/6ed19ddd4a02a64f6a32ea1ab6220edea49f23645ec486bef01a30146d0705a2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/77114c0333c7429771e076966b2e4028dee1494cfc7e5e18c72e36e855181afd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/77114c0333c7429771e076966b2e4028dee1494cfc7e5e18c72e36e855181afd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/80aca4a90ebcb7828f2ffc9830dac0884bbf1b556a959ff4005852c7a086adfb.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/80aca4a90ebcb7828f2ffc9830dac0884bbf1b556a959ff4005852c7a086adfb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8d23a46e0c1a3a65bd9d75d263b98afb187c647bd564e79ad00b0ee52bbe6f66.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8d23a46e0c1a3a65bd9d75d263b98afb187c647bd564e79ad00b0ee52bbe6f66.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8d23a46e0c1a3a65bd9d75d263b98afb187c647bd564e79ad00b0ee52bbe6f66.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8d23a46e0c1a3a65bd9d75d263b98afb187c647bd564e79ad00b0ee52bbe6f66.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8d285dbbc6c0f313e195d4724e49c11a56a99029d8557a5af05ee749f4fb4b37.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8d285dbbc6c0f313e195d4724e49c11a56a99029d8557a5af05ee749f4fb4b37.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8d285dbbc6c0f313e195d4724e49c11a56a99029d8557a5af05ee749f4fb4b37.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8d285dbbc6c0f313e195d4724e49c11a56a99029d8557a5af05ee749f4fb4b37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8ddf15c729893ab44a9ca149a3aedb297087a6be1c8345590f47a24057ab030c.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8ddf15c729893ab44a9ca149a3aedb297087a6be1c8345590f47a24057ab030c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8f6a1e83b5d67a180857897152b8111dcbf5f1864a82e817f21ef4adf0bd7eba.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8f6a1e83b5d67a180857897152b8111dcbf5f1864a82e817f21ef4adf0bd7eba.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/8f6a1e83b5d67a180857897152b8111dcbf5f1864a82e817f21ef4adf0bd7eba.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8f6a1e83b5d67a180857897152b8111dcbf5f1864a82e817f21ef4adf0bd7eba.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/8fb4c7473d04102a0548c39e2498a714c2bc862001051689f9da251589246a5e.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8fb4c7473d04102a0548c39e2498a714c2bc862001051689f9da251589246a5e.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/91adf2b3597d6d574a20021ff105897ab8c9a8fa8e4fd63c18368ba2459d93d1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/91adf2b3597d6d574a20021ff105897ab8c9a8fa8e4fd63c18368ba2459d93d1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/93dc92354fe4be3d88adb6200bacfd998403ab543b0ce501922ecda4ba9eb03b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/93dc92354fe4be3d88adb6200bacfd998403ab543b0ce501922ecda4ba9eb03b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/94c0434749fdca8207b568ac0618cfb87c1adc45cf1e9fed4120ad3f9050ad7b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/94c0434749fdca8207b568ac0618cfb87c1adc45cf1e9fed4120ad3f9050ad7b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/958b5bc3ae1d53c6698a44080b4072ea29d65e9f259a54d9ce1e93ac6ec06663.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/958b5bc3ae1d53c6698a44080b4072ea29d65e9f259a54d9ce1e93ac6ec06663.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9a2d170d525a33280eb81a32b92ca13d82666896cf5d43d02ca54988937fe83d.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/9a2d170d525a33280eb81a32b92ca13d82666896cf5d43d02ca54988937fe83d.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/9a860966133f01fdcff01bae9cf0bca26a765e641965ef904bbcc40e735da3b4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/9a860966133f01fdcff01bae9cf0bca26a765e641965ef904bbcc40e735da3b4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-05e26bfe2763b0ecd5f7503b5152b1b296aef701d90f949e28b29962d1f4a83a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a2956916f51b54bade9c705db429581a1a9e5879d4f2a94e60b69640f3aa13c9.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a2956916f51b54bade9c705db429581a1a9e5879d4f2a94e60b69640f3aa13c9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a4e9a155a1fd811036285757d9d122a67a10b6f1f09c0a45136ae17ab92764a7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a4e9a155a1fd811036285757d9d122a67a10b6f1f09c0a45136ae17ab92764a7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/a8ec000fb2f8eabfc8577a9f84e9046dec58b4d9c9d5288fe114022937b18a13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a8ec000fb2f8eabfc8577a9f84e9046dec58b4d9c9d5288fe114022937b18a13.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/bacbafd41f0d87f47b89a172913211858583e49884a1100a9ea64b11fbeed435.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bacbafd41f0d87f47b89a172913211858583e49884a1100a9ea64b11fbeed435.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c1f53564d4b86296af3001e9e87379f078fcb1d0265aa711c12b392340135fce.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c1f53564d4b86296af3001e9e87379f078fcb1d0265aa711c12b392340135fce.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c1f53564d4b86296af3001e9e87379f078fcb1d0265aa711c12b392340135fce.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c1f53564d4b86296af3001e9e87379f078fcb1d0265aa711c12b392340135fce.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c5f436980712344221833f9d1fa418833e8c978c44968d54806d07a3dc595731.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c5f436980712344221833f9d1fa418833e8c978c44968d54806d07a3dc595731.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c60bc8af7a6a1846f6360cdf67d6cd9b736c56dc44d2ee53c397fd49dd98c66a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c60bc8af7a6a1846f6360cdf67d6cd9b736c56dc44d2ee53c397fd49dd98c66a.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/cccc3a8e4b5d1ac4210560b220be9c48e66761d3861897572f6c2a3a6882631e.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/cccc3a8e4b5d1ac4210560b220be9c48e66761d3861897572f6c2a3a6882631e.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d6b9434e69251bd14efa0a287db0bab92a0cc9c4976507053d6140aef847bf1b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d71b1175a8b827563af7b257afc4f3908d4619df4c61ce08a4bc43f9e0d68f6d.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d71b1175a8b827563af7b257afc4f3908d4619df4c61ce08a4bc43f9e0d68f6d.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d71b1175a8b827563af7b257afc4f3908d4619df4c61ce08a4bc43f9e0d68f6d.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d71b1175a8b827563af7b257afc4f3908d4619df4c61ce08a4bc43f9e0d68f6d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/d96df701712c9078f99b9b06100ca7eb8986603112442e04a64243ceea71e61e.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d96df701712c9078f99b9b06100ca7eb8986603112442e04a64243ceea71e61e.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/dace63bebdb20267723bac22a7038a0c2ee708c1a787831eb76d56414f01ed40.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/dace63bebdb20267723bac22a7038a0c2ee708c1a787831eb76d56414f01ed40.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/e1b6d4fb8d54bec08cbdaa3cbcfde5779755887cce7b5f364cadaff26e8fd29e.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e1b6d4fb8d54bec08cbdaa3cbcfde5779755887cce7b5f364cadaff26e8fd29e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e1d79b4e1e52128f3b80e130600878f16abc7053b3cecc45228992fda8793f1a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e1d79b4e1e52128f3b80e130600878f16abc7053b3cecc45228992fda8793f1a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e31be5150bfb2b8b8fa12bd5c837376ae400e7a0ae2b9e02691d7b92ee7074b4_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e32dd0328ddae46854566e172dc6c57565b6180492971468bab74f506011f892.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e32dd0328ddae46854566e172dc6c57565b6180492971468bab74f506011f892.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ee0132c8df5e96c9ad62d025675b60753c2599241e100961ddba89bcbf5813cf.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ee0132c8df5e96c9ad62d025675b60753c2599241e100961ddba89bcbf5813cf.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/f39461717e2a78d2d69bc4a4ca139d69572e2b4176d522c69126cdd6e0a16316.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f39461717e2a78d2d69bc4a4ca139d69572e2b4176d522c69126cdd6e0a16316.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/f4f5d6549c23ca069f22fe4da9e766f8ff67f5ec75011460607534e56004de17.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/f4f5d6549c23ca069f22fe4da9e766f8ff67f5ec75011460607534e56004de17.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
@@ -174,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/SOAT_PRESENCIAL/BDDFrontServicesMovilidadCotizadorAutos" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -196,7 +191,7 @@
       <recent name="C:\Users\astrid.chavarria\Desktop\APUNTES\RETO_BANISTMO\src\main\java\co\com\retotecnicobanistmo\certificacion\reto\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.DepositoCuentaCorriente">
+  <component name="RunManager" selected="Gradle.ContratoTarjeta">
     <configuration name="ContratoTarjeta" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -279,8 +274,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DepositoCuentaCorriente" />
         <item itemvalue="Gradle.ContratoTarjeta" />
+        <item itemvalue="Gradle.DepositoCuentaCorriente" />
         <item itemvalue="Gradle.Prueba" />
         <item itemvalue="Gradle.PruebaService" />
         <item itemvalue="Gradle.PruebaService" />
@@ -309,22 +304,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599488278794" />
-    <state width="1323" height="258" key="GridCell.Tab.0.bottom" timestamp="1599496784956">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599499667574">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="258" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
-    <state width="1323" height="258" key="GridCell.Tab.0.center" timestamp="1599496784956">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599499667574" />
+    <state width="1323" height="333" key="GridCell.Tab.0.bottom" timestamp="1599593004905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="258" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
-    <state width="1323" height="258" key="GridCell.Tab.0.left" timestamp="1599496784956">
+    <state width="1323" height="333" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599593004905" />
+    <state width="1323" height="333" key="GridCell.Tab.0.center" timestamp="1599593004905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="258" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
-    <state width="1323" height="258" key="GridCell.Tab.0.right" timestamp="1599496784956">
+    <state width="1323" height="333" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599593004905" />
+    <state width="1323" height="333" key="GridCell.Tab.0.left" timestamp="1599593004905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="258" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599496784956" />
+    <state width="1323" height="333" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599593004905" />
+    <state width="1323" height="333" key="GridCell.Tab.0.right" timestamp="1599593004905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="333" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599593004905" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1599500775056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599500775056" />
     <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1599488710905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -10,7 +10,10 @@ public class PestañaActivaContrato implements Question<Boolean> {
 
   @Override
   public Boolean answeredBy(Actor actor) {
-    return BrowseTheWeb.as(actor).getDriver().getTitle().contains(ARCHIVO_CONTRATO.getNombre());
+    return BrowseTheWeb.as(actor)
+        .getDriver()
+        .getCurrentUrl()
+        .contains(ARCHIVO_CONTRATO.getNombre());
   }
 
   public static PestañaActivaContrato banistmo() {

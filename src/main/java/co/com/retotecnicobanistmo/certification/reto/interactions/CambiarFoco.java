@@ -1,11 +1,12 @@
 package co.com.retotecnicobanistmo.certification.reto.interactions;
 
-import static net.serenitybdd.screenplay.Tasks.instrumented;
-
-import java.util.ArrayList;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Interaction;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
+
+import java.util.ArrayList;
+
+import static net.serenitybdd.screenplay.Tasks.instrumented;
 
 public class CambiarFoco implements Interaction {
   @Override

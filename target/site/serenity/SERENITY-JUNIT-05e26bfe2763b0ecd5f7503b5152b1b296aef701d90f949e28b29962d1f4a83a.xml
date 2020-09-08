@@ -1,8 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Descargar Contrato de Tarjeta de Credito" skipped="0" tests="1" time="81.88" timestamp="2020-09-07 11:23:31"><testcase name="Descargar Contrato de Tarjeta de Credito"><failure message="Expected pestaña activa contrato&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected pestaña activa contrato
-Expected: is &lt;true&gt;
-     but: was &lt;false&gt;</failure><system-err>Expected pestaña activa contrato
-Expected: is &lt;true&gt;
-     but: was &lt;false&gt;&#13;
-co.com.retotecnicobanistmo.certification.reto.stepdefinitions.ContratoTarjetaStepDefinition.deberiaVisualizarElMensaje(ContratoTarjetaStepDefinition.java:27)&#13;
-✽.deberia visualizar el archivo de contrato(file:///C:/Users/astrid.chavarria/Desktop/APUNTES/RETO_BANISTMO/src/test/resources/features/ContratoTarjetaCredito.feature:12)&#13;
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Descargar Contrato de Tarjeta de Credito" skipped="0" tests="1" time="28.68" timestamp="2020-09-08 02:22:00"><testcase name="Descargar Contrato de Tarjeta de Credito"><error message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]&quot;}&#10;  (Session info: chrome=85.0.4183.83)&#10;  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'SBMEDLAPPROAC26', ip: '192.168.1.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ASTRID~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 85.0.4183.83, webStorageEnabled: true}&#10;Session ID: ef908b76acf934255ca91f7b27d9ded9&#10;*** Element info: {Using=xpath, value=//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]}" type="org.openqa.selenium.NoSuchElementException">no such element: Unable to locate element: {"method":"xpath","selector":"//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SBMEDLAPPROAC26', ip: '192.168.1.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ASTRID~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 85.0.4183.83, webStorageEnabled: true}
+Session ID: ef908b76acf934255ca91f7b27d9ded9
+*** Element info: {Using=xpath, value=//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]}</error><system-err>no such element: Unable to locate element: {"method":"xpath","selector":"//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]"}
+  (Session info: chrome=85.0.4183.83)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SBMEDLAPPROAC26', ip: '192.168.1.60', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ASTRID~1.CHA\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 85.0.4183.83, webStorageEnabled: true}
+Session ID: ef908b76acf934255ca91f7b27d9ded9
+*** Element info: {Using=xpath, value=//title[contains(text(),'Banistmo+Contrato+TDC+(VJul18).pdf')]}&#13;
+co.com.retotecnicobanistmo.certification.reto.interactions.CambiarFoco.performAs(CambiarFoco.java:22)&#13;
+co.com.retotecnicobanistmo.certification.reto.tasks.Descargar.performAs(Descargar.java:19)&#13;
+co.com.retotecnicobanistmo.certification.reto.stepdefinitions.ContratoTarjetaStepDefinition.descargarContratoTarjetaCredito(ContratoTarjetaStepDefinition.java:22)&#13;
+io.cucumber.java.Invoker.invoke(Invoker.java:27)&#13;
+io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:27)&#13;
+io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+io.cucumber.core.runner.TestStep.executeStep(TestStep.java:64)&#13;
+io.cucumber.core.runner.TestStep.run(TestStep.java:49)&#13;
+io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:46)&#13;
+io.cucumber.core.runner.TestCase.run(TestCase.java:51)&#13;
+io.cucumber.core.runner.Runner.runPickle(Runner.java:66)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:83)&#13;
+io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:24)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:227)&#13;
+io.cucumber.junit.CucumberSerenityRunner.runChild(CucumberSerenityRunner.java:54)&#13;
 </system-err></testcase></testsuite>
